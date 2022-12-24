@@ -2,7 +2,7 @@
 int main()
 {
     int upper,lower,mid,i,n,key;
-    int a[6]={0,10,20,30,40};
+    int a[5]={0,10,20,30,40};
     printf("Enter the key you want to search:");
     scanf("%d",&key);
     upper=4;
